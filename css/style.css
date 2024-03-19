@@ -47,6 +47,7 @@
  .boca{
     flex: 0 0 50%;
  }
+ img{object-fit: cover;}
 .banner {
      width: 90%;
      height: 400px;
@@ -62,7 +63,6 @@
 
  
 
- img{object-fit: cover;}
 
  .staff {
      width:  90%;
