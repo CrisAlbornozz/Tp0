@@ -12,7 +12,7 @@
      box-sizing: border-box;
      width: 50%;
      height: auto;
-     background-color: rgb(22, 25, 170);
+     background-color: rgb(0, 0, 0);
  }
  .linea{
     width: 90%;
@@ -31,7 +31,8 @@
     background-color: rgb(255, 255, 255);
 }
  header {
-     width: 90%;
+    text-align: left;
+    width: 90%;
      height: 100;
      background-color: rgba(239, 255, 15, 0.904);
  }
@@ -60,12 +61,18 @@
      
  }
 
-
- 
-
-
  .staff {
      width:  90%;
      height: 400px;
-     background-color: rgb(167, 159, 48);
+     background-color: rgb(16, 13, 202);;
  }
+ .linea3{
+    width: AUTO;
+    height: 5px;
+    background-color: rgb(255, 255, 255);
+}
+.linea4{
+    width: 90%;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+}
