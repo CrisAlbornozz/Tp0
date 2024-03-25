@@ -72,6 +72,9 @@
     height: 30px;
     background-color: rgb(218, 218, 218);;
  }
+ .roman{
+    flex: 0 0 50%;
+ }
  .linea3{
     width: AUTO;
     height: 5px;
