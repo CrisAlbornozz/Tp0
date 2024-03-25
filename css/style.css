@@ -68,8 +68,9 @@
 
  }
  .riquelme{
-    flex: 0 0 50%;
-
+    width:  40%;
+    height: 30px;
+    background-color: rgb(218, 218, 218);;
  }
  .linea3{
     width: AUTO;
