@@ -74,6 +74,12 @@
     display: flex;
  }
 
+.stafff {
+    margin: 0 auto;
+     width:  90%;
+     height: 400px;
+     background-color: rgb(202, 202, 202);
+}
  .staff {
     margin: 0 auto;
      width:  90%;
