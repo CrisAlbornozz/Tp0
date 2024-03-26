@@ -67,12 +67,23 @@
      background-color: rgb(16, 13, 202);
      
  }
+ #articulo{
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+ }
 
  .staff {
     margin: 0 auto;
      width:  90%;
      height: 400px;
      background-color: rgb(16, 13, 202);
+
+     & .img-staff{
+        height: 50%;
+        background-color: aqua;
+     }
 
  }
 
